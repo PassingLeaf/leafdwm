@@ -6,6 +6,7 @@ Patches ----------------
 - autostart
 - fibonacci layout
 - useless gaps
+- systray
 
 Theme
 - Catppuccin mocha lavendar
